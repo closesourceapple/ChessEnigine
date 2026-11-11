@@ -4,8 +4,8 @@ ChessAudio::ChessAudio()
 {
 
 
-	BackGroundMusic.loadSound("C:/Users/User/Chess/Assets/Sound/Playful_Massacre.wav");
-	PieceCaptured.loadSound("C:/Users/User/Chess/Assets/Sound/ChessPiece_sound.wav");
+	BackGroundMusic.loadSound("C:/Users/User/Chess/Assets/Sound/__PlaceHolder__BackGroundMusic.wav");
+	PieceCaptured.loadSound("C:/Users/User/Chess/Assets/Sound/__PlaceHolder__PieceMoveSound.wav");
 
 	BackGroundMusic.setListener();
 	PieceCaptured.setListener();
